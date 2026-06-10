@@ -39,3 +39,14 @@ This project demonstrates the design and deployment of a secure AWS cloud enviro
 ## Lessons Learned
 
 This project improved my understanding of AWS networking, IAM permissions, logging, monitoring, and cloud security best practices while preparing for the AWS Certified Solutions Architect - Associate certification.
+
+
+## Screenshots
+
+### VPC Configuration
+
+### IAM Roles
+
+### CloudTrail Logging
+
+### CloudWatch Monitoring
