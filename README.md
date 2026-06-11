@@ -3,6 +3,16 @@
 
 This project demonstrates the design and deployment of a secure AWS cloud environment using AWS best practices.
 
+## AWS Services Used
+
+- Amazon VPC
+- Amazon EC2
+- AWS IAM
+- Amazon CloudWatch
+- AWS CloudTrail
+- Security Groups
+- Route Table
+
 ## Technologies Used
 
 - AWS VPC
